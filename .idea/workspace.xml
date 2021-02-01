@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="878987e6-e6a9-4811-8e16-66e2a4287516" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_training_linear_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04_training_linear_models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_decision_trees.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06_decision_trees.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_neural_nets_with_keras.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_neural_nets_with_keras.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_training_deep_neural_networks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_training_deep_neural_networks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools_pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tools_pandas.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="dcafc7d8-12c7-4654-a608-033d30f602ee" />
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1l876enZ5lY8c4Mm5zPRLqdi0XR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26582277" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="878987e6-e6a9-4811-8e16-66e2a4287516" name="Default Changelist" comment="" />
+      <created>1606966694176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606966694176</updated>
+      <workItem from="1606966696761" duration="408000" />
+      <workItem from="1606967129467" duration="1664000" />
+      <workItem from="1606968835275" duration="1705000" />
+      <workItem from="1606973493466" duration="560000" />
+      <workItem from="1606978428809" duration="1278000" />
+      <workItem from="1606981068901" duration="769000" />
+      <workItem from="1607542748269" duration="2187000" />
+      <workItem from="1607826753111" duration="3497000" />
+      <workItem from="1607901459183" duration="460000" />
+      <workItem from="1607901940309" duration="8139000" />
+      <workItem from="1608004521212" duration="4240000" />
+      <workItem from="1608015705719" duration="595000" />
+      <workItem from="1608019276699" duration="568000" />
+      <workItem from="1608203169088" duration="1559000" />
+      <workItem from="1608251340471" duration="3771000" />
+      <workItem from="1608257833815" duration="402000" />
+      <workItem from="1608258658903" duration="16233000" />
+      <workItem from="1608328791155" duration="4574000" />
+      <workItem from="1608336362014" duration="3180000" />
+      <workItem from="1608349410484" duration="3290000" />
+      <workItem from="1608358047608" duration="1209000" />
+      <workItem from="1611547566934" duration="1720000" />
+    </task>
+    <task id="LOCAL-00001" summary="IntelliJ project update.">
+      <created>1606970249162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606970249162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IntelliJ project update." />
+    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ project update." />
+  </component>
+</project>
